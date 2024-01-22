@@ -1,0 +1,24 @@
+{
+  "name": "PMSYS",
+  "version": "0.0.1",
+  "description": "A platform for both customers and vendors for getting or providing services of various types.",
+  "license": "MIT",
+  "scripts": {
+    "prepare": "husky install",
+    "cm": "cz",
+    "release": "standard-version"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^18.5.0",
+    "@commitlint/config-conventional": "^18.5.0",
+    "commitizen": "^4.3.0",
+    "cz-conventional-changelog": "^3.3.0",
+    "husky": "^8.0.3",
+    "standard-version": "^9.5.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}

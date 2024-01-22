@@ -1,0 +1,38 @@
+{
+    "bumpFiles": [
+        {
+            "filename": "App/package.json",
+            "type": "json"
+        },
+        {
+            "filename": "Server/package.json",
+            "type": "json"
+        },
+        {
+            "filename": "Admin/package.json",
+            "type": "json"
+        },
+        {
+            "filename": "package.json",
+            "type": "json"
+        }
+    ],
+    "packageFiles": [
+        {
+            "filename": "App/package.json",
+            "type": "json"
+        },
+        {
+            "filename": "Server/package.json",
+            "type": "json"
+        },
+        {
+            "filename": "Admin/package.json",
+            "type": "json"
+        },
+        {
+            "filename": "package.json",
+            "type": "json"
+        }
+    ]
+}
