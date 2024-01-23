@@ -1,6 +1,6 @@
 {
   "name": "PMSYS",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "description": "A platform for both customers and vendors for getting or providing services of various types.",
   "license": "MIT",
   "scripts": {
